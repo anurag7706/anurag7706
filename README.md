@@ -5,9 +5,6 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-# Hello, I'm Anurag Mishra 👋
-
-![Header Image](https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif)
 
 ## About Me
 
@@ -24,7 +21,7 @@ I'm a Software Engineer based in India.
 
 ## Some of My Work in Action
 
-![GIF of Project 1](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)![GIF of Project 2](https://media.giphy.com/media/m055OOQceZKc2XNdCe/giphy.gif)
+![GIF of Project 1](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 ## Let's Connect!
 
