@@ -11,8 +11,8 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 I'm a Software Engineer based in India.
 
 ## My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anurag7706&show_icons=true&theme=radical&token=YOUR_PAT_HERE)
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=anurag7706&show_icons=true&theme=radical)
 
 ## Languages and Tools
 
@@ -43,7 +43,7 @@ I'm a Software Engineer based in India.
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag7706&layout=compact)](https://github.com/anurag7706)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag7706&layout=compact&langs_count=6&theme=radical&hide=html,css)](https://github.com/anurag7706)
 
 
 ## Some of My Work in Action
