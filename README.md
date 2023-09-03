@@ -8,7 +8,7 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ## About Me
 
-I'm a Software Engineer based in India.
+I'm a Engineering Student, Still learning to become a Software Engineer.
 
 ## My GitHub Stats
 <div align="center">
