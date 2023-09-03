@@ -11,7 +11,11 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 I'm a Software Engineer based in India.
 
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anurag7706&show_icons=true&theme=radical&token=YOUR_PAT_HERE)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anurag7706&show_icons=true&theme=radical&token=YOUR_PAT_HERE" alt="1" width="600" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag7706&layout=compact&langs_count=6&theme=radical&hide=html,css)](https://github.com/anurag7706" alt="1" width="400" />
+</div>
 
 
 ## Languages and Tools
@@ -39,11 +43,18 @@ I'm a Software Engineer based in India.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anurag7706&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## My NFT Collection 🏆
+<div align="center">
+<img src="https://github.com/anurag7706/anurag7706/assets/75776424/a74a8ef7-5aa5-46a8-8eeb-fd63ab67b715" alt="1" width="500" />
+</div>
 
+<div align="center">
+  <img src="https://authoring.metacrafters.io/assets/cms/JS_3_40514dc63b.png?updated_at=2023-02-17T16:18:47.388Z" alt="NFT 1" width="200" />
+  <img src="https://authoring.metacrafters.io/assets/cms/Group_483375_f1b416ffb4.png?updated_at=2023-01-04T17:12:09.776Z" alt="NFT 2" width="200" />
+  <img src="https://authoring.metacrafters.io/assets/cms/Frame_460_792eab592a.png?updated_at=2023-05-03T07:51:33.211Z" alt="NFT 3" width="200" />
+  <img src="https://authoring.metacrafters.io/assets/cms/Group_483404_a1bac61902.png?updated_at=2023-02-27T14:37:23.249Z" alt="NFT 4" width="200" />
+</div>
 
-## Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag7706&layout=compact&langs_count=6&theme=radical&hide=html,css)](https://github.com/anurag7706)
 
 
 ## Some of My Work in Action
