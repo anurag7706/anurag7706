@@ -12,7 +12,7 @@ I'm a Software Engineer based in India.
 
 ## My GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anurag7706&show_icons=true&theme=radical&token=YOUR_PAT_HERE" alt="1" width="600" />
+<img src="https://github-readme-stats.vercel.app/api?username=anurag7706&show_icons=true&theme=radical&token=YOUR_PAT_HERE" alt="1" width="450" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag7706&layout=compact&langs_count=6&theme=radical&hide=html,css)](https://github.com/anurag7706" alt="1" width="400" />
 </div>
