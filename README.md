@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag7706&label=Profile%20views&color=0e75b6&style=flat" alt="anurag7706" /> </p>
 Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Anurag Mishra
 =========================================================================================================================================
 
