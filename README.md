@@ -58,7 +58,7 @@ I'm a Engineering Student, Still learning to become a Software Engineer.
 
 
 
-## Some of My Work in Action
+## Cool
 
 ![GIF of Project 1](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
