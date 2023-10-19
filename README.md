@@ -42,7 +42,7 @@ I'm a Engineering Student, Still learning to become a Software Engineer.
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anurag7706&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anurag7706&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My NFT Collection 🏆
 <div align="center">
