@@ -33,10 +33,6 @@ Cyber Security Analyst & Researcher.
 - [Crypto-Metamask-Bank](https://github.com/anurag7706/Crypto-Metamask-Bank): Welcome to the Crypto Bank project! The project aims to showcase the use of blockchain technology and smart contracts to create a decentralized banking platform.
 
 
-## GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anurag7706&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## My NFT Collection 🏆
 <div align="center">
 <img src="https://github.com/anurag7706/anurag7706/assets/75776424/a74a8ef7-5aa5-46a8-8eeb-fd63ab67b715" alt="1" width="500" />
