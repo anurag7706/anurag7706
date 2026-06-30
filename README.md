@@ -62,8 +62,5 @@ Cyber Security Analyst & Researcher.
 
 ![GIF of Project 1](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
-## Let's Connect!
-
-- Email: [anurag7706@gmail.com](mailto:anurag7706@gmail.com)
 
 Feel free to explore my repositories and connect with me. Happy coding! 🚀
