@@ -11,13 +11,6 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 Cyber Security Analyst & Researcher.
 
-## My GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anurag7706&show_icons=true&theme=radical&token=YOUR_PAT_HERE" alt="1" width="530" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag7706&layout=compact&langs_count=6&theme=radical&hide=html,css)](https://github.com/anurag7706" alt="1" width="400" />
-</div>
-
 
 ## Languages and Tools
 
